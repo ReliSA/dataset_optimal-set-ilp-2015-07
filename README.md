@@ -50,7 +50,7 @@ Results files have the following structure:
 
 ## Source Code
 
-The simulation code is written in Python 2.7 using [Gurobi](http://relisa-dev.kiv.zcu.cz/data/experiments/optimal-set-ilp-2015-07/www.gurobi.com) solver and its Python binding. The code is split into three modules:
+The simulation code is written in Python 2.7 using [Gurobi](http://www.gurobi.com/) solver and its Python binding. The code is split into three modules:
 
     data - handles reading the source data files and generating data from them
     stats - convenience utility class for statistics
