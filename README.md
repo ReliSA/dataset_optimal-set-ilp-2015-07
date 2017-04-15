@@ -1,4 +1,4 @@
-(Mirror of http://relisa-dev.kiv.zcu.cz/data/experiments/optimal-set-ilp-2015-07/)
+(Mirror of http://relisa-dev.kiv.zcu.cz/data/experiments/optimal-set-ilp-2015-07/. Companion dataset for the paper with [DOI:10.1007/978-3-662-49192-8_37](http://link.springer.com/chapter/10.1007/978-3-662-49192-8_37).)
 
 # Finding Optimal Compatible Set of Software Components Using Integer Linear Programming - dataset for the experiment 
 
